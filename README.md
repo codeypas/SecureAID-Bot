@@ -31,6 +31,31 @@ SecureAid Bot is a full-stack application designed to provide real-time disaster
 | **Dev Tools** | Hardhat / Remix, Truffle, Docker, Postman, VS Code |
 
 ---
+### 📝 Paper
+
+**Title:** SecureAid Bot — AI-Based Disaster Communication and Blockchain-Based Transparent Fundraising System  
+
+**Overview:**  
+SecureAid Bot combines AI and Blockchain to enhance disaster management. It features an AI chatbot for real-time, personalized alerts and a blockchain-based donation system for secure, transparent contributions. An admin dashboard allows NGOs and government agencies to track donations and coordinate relief efficiently.
+
+**Highlights:**  
+- AI chatbot for hyper-local disaster alerts  
+- Blockchain fundraising via smart contracts  
+- Admin dashboard for real-time monitoring  
+- Supports web/mobile, text/voice, and multi-language accessibility  
+
+**Objective:** Provide a secure, decentralized platform for real-time disaster communication and transparent fundraising.
+
+**Scope:** Pre-emergency alerts, automatic donations, real-time monitoring, and scalable system for wide accessibility.  
+
+**Certificate:**  
+<img src="https://github.com/codeypas/SecureAID-Bot/blob/8572347d29f4521f8fa6118588e0ba464323ce4d/SecureAid.jpg" width="50%" alt="Clipboard Tab"/>
+
+
+**Read full paper:** [SecureAid Bot Paper](https://www.ijisrt.com/secureaid-bot)
+
+---
+
 
 ## 🚀 Getting Started
 
