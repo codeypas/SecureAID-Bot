@@ -51,11 +51,14 @@ SecureAid Bot combines AI and Blockchain to enhance disaster management. It feat
 **Certificate:**  
 <img src="https://github.com/codeypas/SecureAID-Bot/blob/8572347d29f4521f8fa6118588e0ba464323ce4d/SecureAid.jpg" width="50%" alt="Clipboard Tab"/>
 
+---
 
 **Read full paper:** [SecureAid Bot Paper](https://www.ijisrt.com/secureaid-bot)
 
 ---
 
+**Read full Report:** [SecureAid Bot Report](https://drive.google.com/file/d/1Jdff1c5WKowq0xKHcVPzAGGeDjDaB_vo/view?usp=sharing)
+---
 
 ## 🚀 Getting Started
 
@@ -145,6 +148,23 @@ python run.py
 - **PgAdmin interface:** http://localhost:5050  
 - **Frontend:** http://localhost:3000  
 - **Chatbot & Email services:** running via Docker  
+
+---
+
+
+### 🖼 Screenshots
+
+**Home Page / Dashboard**  
+<img src="https://github.com/codeypas/SecureAID-Bot/blob/455b4dcf756b30d21b5ecf02efafb17046814760/M_P-images/User-Dashboard.png" width="60%" alt="Home Page Screenshot" />
+
+**Chatbot Interface**  
+<img src="https://github.com/codeypas/SecureAID-Bot/blob/455b4dcf756b30d21b5ecf02efafb17046814760/M_P-images/ChatInterface.png" width="60%" alt="Chatbot Screenshot" />
+
+**Donation & Blockchain Dashboard**  
+<img src="https://github.com/codeypas/SecureAID-Bot/blob/455b4dcf756b30d21b5ecf02efafb17046814760/M_P-images/Screenshot%202025-11-10%20at%2021.35.23.png" width="60%" alt="Donation Dashboard Screenshot" />
+
+**Blockchan Admin Dashboard**  
+<img src="https://github.com/codeypas/SecureAID-Bot/blob/455b4dcf756b30d21b5ecf02efafb17046814760/M_P-images/Screenshot%202025-11-10%20at%2021.37.03.png" width="60%" alt="Admin Panel Screenshot" />
 
 ---
 
