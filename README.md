@@ -172,6 +172,8 @@ python run.py
 
 📌 [GitHub Profile](https://github.com/codeypas)  
 📧 Contact: bjbestintheworld@gmail.com  
+🔗 [Portfolio](https://bijayadhikari28.com.np/) 
+
 
 Pull requests are welcome! For major changes, please open an issue first to discuss your idea.
 
